@@ -1,1 +1,3 @@
-Hello there! I am Justin Sienes 
+Hello there! I am Justin Sienes >> 
+
+Languages: C++, C, Python, Lua
