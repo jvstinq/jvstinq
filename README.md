@@ -8,5 +8,10 @@ Languages: C++, C, Python, Lua
 Interests: Aviation, Video Games, User-Interface, Software
 
 <span style="font-size:20px;"><b>Other places to find me:</b></span>
+ 
+<!-- LinkedIn -->
+<a href="[https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/justin-sienes-69469a267/)" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="LinkedIn" width="100" height="100">
+</a>
 
-LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/justin-sienes-69469a267/)
+
