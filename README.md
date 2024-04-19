@@ -14,4 +14,8 @@ Interests: Aviation, Video Games, User-Interface, Software
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="LinkedIn" width="100" height="100">
 </a>
 
+<!-- LeetCode -->
+<a href="https://leetcode.com/YOUR_USERNAME/" target="_blank" style="display: inline-block;">
+  <img src="LINK_TO_YOUR_LEETCODE_PROFILE_PICTURE" alt="LeetCode" width="100" height="100">
+</a>
 
